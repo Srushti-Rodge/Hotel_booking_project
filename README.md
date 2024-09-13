@@ -35,7 +35,7 @@ The hotel booking sector is highly customer-oriented and represents a lucrative 
    
 2. Use charts to visualize data trends and patterns.
    
-###**Business Insights:**
+### **Business Insights:**
 Provide recommendations for improving hotel operations and customer satisfaction based on the analysis.
 
 ## **Conclusions:**
