@@ -39,5 +39,16 @@ The hotel booking sector is highly customer-oriented and represents a lucrative 
 Provide recommendations for improving hotel operations and customer satisfaction based on the analysis.
 
 ## **Conclusions:**
+**1. Present solutions and business objectives** derived from the data to help clients enhance their business performance.
 
-Present solutions and business objectives derived from the data to help clients enhance their business performance.
+**2. Revenue Trends:** Hotel revenue peaks in the middle of the year, likely due to local events or seasonal factors.
+
+**3. Business Growth:** The hotel industry shows consistent annual growth, with increasing profits and breaking previous records.
+
+**4. Booking Policies:** Many hotels have a "no deposit or no refund" policy, which may frustrate guests. Implementing additional policies could improve guest satisfaction.
+
+**5. Lead Time:** Guests booking weeknight stays tend to have a longer lead time compared to weekend stays.
+
+**6. Guest Retention:** Low rebooking rates suggest a need for hotels to attract more guests through themed programs and local advertisements.
+
+**7. Average Daily Rate (ADR):** ADR varies with hotel events, showing peaks in July, December, and May, indicating that ADR is influenced by specific hotel activities rather than lead time.
